@@ -1,6 +1,6 @@
 # UML
 
-# Class Diagram
+## Class Diagram
 
 ```mermaid
 classDiagram
@@ -26,7 +26,7 @@ classDiagram
     }
 ```
 
-# ER Diagram
+## ER Diagram
 ```mermaid
 erDiagram
     CUSTOMER }|..|{ DELIVERY-ADDRESS : has
