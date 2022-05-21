@@ -227,6 +227,6 @@ classDiagram
     classO .. classP : Link(Dashed)
 ```
 
-# Reference
+# 참고
 * https://en.wikipedia.org/wiki/Unified_Modeling_Language
 * https://www.nextree.co.kr/p6753/amp
